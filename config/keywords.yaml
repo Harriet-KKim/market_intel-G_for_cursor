@@ -1,0 +1,23 @@
+# 회사별 매칭 키워드 (제목·요약 대소문자 무시 부분 일치)
+figure_ai:
+  - figure ai
+  - figure-01
+  - figure 01
+  - figure humanoid
+boston_dynamics:
+  - boston dynamics
+  - atlas robot
+  - spot robot
+  - boston dynamic
+agility_robotics:
+  - agility robotics
+  - digit robot
+  - agility robot
+covariant:
+  - covariant
+  - covariant brain
+sanctuary_ai:
+  - sanctuary ai
+  - sanctuaryai
+  - phoenix robot
+  - sanctuary general

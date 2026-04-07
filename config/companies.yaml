@@ -1,0 +1,30 @@
+# Physical AI 추적 회사 레지스트리 (slug = 폴더명, Obsidian 링크 기준)
+companies:
+  - slug: figure_ai
+    display_name: Figure AI
+    tier: 1
+    themes:
+      - humanoid_supply_chain
+      - embodied_ai_platforms
+  - slug: boston_dynamics
+    display_name: Boston Dynamics
+    tier: 1
+    themes:
+      - embodied_ai_platforms
+      - humanoid_supply_chain
+  - slug: agility_robotics
+    display_name: Agility Robotics
+    tier: 1
+    themes:
+      - humanoid_supply_chain
+  - slug: covariant
+    display_name: Covariant
+    tier: 2
+    themes:
+      - embodied_ai_platforms
+  - slug: sanctuary_ai
+    display_name: Sanctuary AI
+    tier: 2
+    themes:
+      - humanoid_supply_chain
+      - simulation_digital_twin
