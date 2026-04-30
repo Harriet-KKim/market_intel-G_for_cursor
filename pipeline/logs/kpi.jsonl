@@ -70,3 +70,4 @@
 {"ts": "2026-04-29T19:08:36.736114+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 12, "skipped_no_company": 90, "errors": 0}
 {"ts": "2026-04-30T08:03:33.103912+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 12, "skipped_no_company": 92, "errors": 0}
 {"ts": "2026-04-30T13:20:00.938077+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 12, "skipped_no_company": 92, "errors": 0}
+{"ts": "2026-04-30T19:05:40.516776+00:00", "feeds_fetched": 3, "new_items": 1, "skipped_dup": 11, "skipped_no_company": 92, "errors": 0}
