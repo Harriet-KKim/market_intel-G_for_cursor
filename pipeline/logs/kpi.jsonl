@@ -178,3 +178,4 @@
 {"ts": "2026-06-04T19:53:44.975784+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 14, "skipped_no_company": 109, "errors": 0}
 {"ts": "2026-06-05T09:30:05.756113+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 14, "skipped_no_company": 118, "errors": 0}
 {"ts": "2026-06-05T14:24:49.565612+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 14, "skipped_no_company": 118, "errors": 0}
+{"ts": "2026-06-05T19:41:16.351988+00:00", "feeds_fetched": 3, "new_items": 1, "skipped_dup": 13, "skipped_no_company": 118, "errors": 0}
