@@ -210,3 +210,4 @@
 {"ts": "2026-06-15T16:56:06.978588+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 118, "errors": 0}
 {"ts": "2026-06-15T20:44:36.394490+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 118, "errors": 0}
 {"ts": "2026-06-16T10:53:00.691709+00:00", "feeds_fetched": 3, "new_items": 1, "skipped_dup": 11, "skipped_no_company": 221, "errors": 0}
+{"ts": "2026-06-16T16:22:57.912742+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 12, "skipped_no_company": 221, "errors": 0}
