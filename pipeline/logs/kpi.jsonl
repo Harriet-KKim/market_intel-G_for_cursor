@@ -314,3 +314,4 @@
 {"ts": "2026-07-20T08:39:15.845137+00:00", "feeds_fetched": 3, "new_items": 1, "skipped_dup": 10, "skipped_no_company": 119, "errors": 0}
 {"ts": "2026-07-20T13:47:28.280263+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 119, "errors": 0}
 {"ts": "2026-07-20T19:24:03.512922+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 119, "errors": 0}
+{"ts": "2026-07-21T08:07:01.019672+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 10, "skipped_no_company": 190, "errors": 0}
