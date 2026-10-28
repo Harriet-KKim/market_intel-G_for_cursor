@@ -601,3 +601,4 @@
 {"ts": "2026-10-27T21:35:04.628542+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 10, "skipped_no_company": 260, "errors": 0}
 {"ts": "2026-10-28T11:48:53.982829+00:00", "feeds_fetched": 3, "new_items": 1, "skipped_dup": 10, "skipped_no_company": 164, "errors": 0}
 {"ts": "2026-10-28T17:36:48.531123+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 164, "errors": 0}
+{"ts": "2026-10-28T21:59:17.347185+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 164, "errors": 0}
