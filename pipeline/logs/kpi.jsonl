@@ -641,3 +641,4 @@
 {"ts": "2026-11-14T21:47:54.068734+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 39, "errors": 0}
 {"ts": "2026-11-15T13:08:30.163480+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 39, "errors": 0}
 {"ts": "2026-11-15T22:15:54.220388+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 39, "errors": 0}
+{"ts": "2026-11-16T14:16:23.233145+00:00", "feeds_fetched": 3, "new_items": 0, "skipped_dup": 11, "skipped_no_company": 100, "errors": 0}
